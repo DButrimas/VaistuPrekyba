@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/order_report_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/sale_report_show.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/libraries/orders.class.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/main.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/order_report_show.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/libraries/sales.class.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/controls/order_report.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/sale_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/report_list.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/utils/mysql.class.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/controls/drugstore_report.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/controls/report_list.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/delayed_cars_report_show.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/drugstore_report_show.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/customer_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/drugstore_report_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/sale_report_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/libraries/drugstores.class.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/index.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/controls/sale_report.php</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/style/main.css</file>
+            <file>file:/C:/xampp/htdocs/vaistu_prekybaFINAL/templates/drugstore_form.tpl.php</file>
+        </group>
+    </open-files>
+</project-private>
